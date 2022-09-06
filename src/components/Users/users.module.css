@@ -1,0 +1,14 @@
+.usersPhoto {
+    width: 100px;
+}
+
+.selectedPage {
+    font-weight: bold;
+    background: red;
+    border-radius: 50%;
+}
+
+.pageWrapper span {
+    padding: 0 5px;
+    cursor: pointer;
+}
